@@ -45,7 +45,7 @@ body {
 
 .audio-control {
   position: absolute;
-  bottom: 2.5rem;
+  bottom: 6.75rem;
   left: 50%;
   transform: translateX(-50%);
   background: #ff6b81;
