@@ -18,7 +18,7 @@ body {
   width: 18.75rem;
   height: 18.75rem;
   position: relative;
-  z-index: 2;
+  z-index: 1;
 }
 
 .image-container img {
@@ -49,6 +49,7 @@ body {
   left: 50%;
   transform: translateX(-50%);
   background: #ff6b81;
+  margin-bottom: 2.5rem;
   color: white;
   padding: 0.625rem 1.25rem;
   border: none;
